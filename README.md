@@ -1,1 +1,2 @@
 # COSI153A
+This is the app designed for COSI 153A Mobile App Develepment at Brandesi University. The app's name is Mood Log. It will help you keep track of your mood. You can put down date/time, mood and some comments. With the async storage technique you don't have to worry about data losing. Nowadays it is harder and harder for people to keep records of feelings/emotions/moods. With this app, you can easily manage emotions by checking details of emotional changes.
